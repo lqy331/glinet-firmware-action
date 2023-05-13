@@ -6,7 +6,7 @@ feeds:
     branch: master
 packages:
   - luci-app-mwan3
-  - luci-app-ssr-plus
+  - luci-app-openclash
   - luci-app-netdata
   - luci-app-ttyd
   - luci-app-smartdns
